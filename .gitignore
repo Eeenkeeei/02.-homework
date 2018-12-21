@@ -2,3 +2,4 @@
 node_modules/
 *.json
 *.html
+js/.idea
